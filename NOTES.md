@@ -3,6 +3,20 @@ Maintainer:   jeffskinnerbox@yahoo.com / www.jeffskinnerbox.me
 Version:      1.2.0
 -->
 
+----
+
+Is it time to move off of Pathogen to use vim's native plugin manager or some other plug manager?
+Tim Pope says you should - https://github.com/tpope/vim-pathogen
+
+* [How to use Tim Pope’s Pathogen](https://gist.github.com/romainl/9970697)
+* [Vim: So long Pathogen, hello native package loading](https://shapeshed.com/vim-packages/)
+* [Installing plugins using packages](http://vimcasts.org/episodes/packages/)
+
+* [Learning Vim in 2014: Getting More from Vim with Plugins](https://benmccormick.org/2014/07/21/learning-vim-in-2014-getting-more-from-vim-with-plugins)
+* [Vim-plug: A Minimalist Vim Plugin Manager](https://www.ostechnix.com/vim-plug-a-minimalist-vim-plugin-manager/)
+
+----
+
 # Notes
 In here are instructions on the creation, maintenance, and use of this repository
 via [git][01] and [GitHub][02].  For more information, check out these posts:
