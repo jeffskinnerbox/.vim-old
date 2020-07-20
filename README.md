@@ -26,6 +26,7 @@ Information about Vim
 * [Turning Vim into a modern Python IDE][03]
 * [Configuring Vim right][11]
 * [Getting started with Vim visual mode][15]
+* [How Did Vim Become So Popular][16]
 
 Vim Scripting Tutorials
 
@@ -104,3 +105,4 @@ could be gathered for this cheat sheet.
  [13]:https://blog.github.com/2016-02-01-working-with-submodules/
  [14]:https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
  [15]:https://opensource.com/article/19/2/getting-started-vim-visual-mode
+ [16]:https://pragmaticpineapple.com/how-did-vim-become-so-popular/
