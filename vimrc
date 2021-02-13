@@ -600,9 +600,9 @@ set pastetoggle=<F11>
 " n                         Repeat the latest "/" or "?" [count] times.
 " N                         Repeat the latest "/" or "?" [count] times in opposite direction.
 
-set incsearch       " find the next match as we type the search
+set incsearch       " find the next search match as we type the search
+set smartcase       " makes search case insensitive
 set ignorecase      " ignore case when searching...
-set smartcase       " ...unless you type a capital
 set hlsearch        " highlight searches by default
 
 " set the highlight color for search
