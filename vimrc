@@ -989,7 +989,7 @@ function! SizeUpFunc()
     let g:oldLines = &lines         " Save the current length
     winpos 900 25	                " location of window when Vim opens, only works for gVim
     set lines=75                    " number of lines in  the terminal window when Vim opens
-    set columns=130                 " number of columns in the terminal window when Vim opens
+    set columns=140                 " number of columns in the terminal window when Vim opens
 endfunction
 command! SizeUp call SizeUpFunc()
 
