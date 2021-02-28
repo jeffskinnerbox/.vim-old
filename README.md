@@ -66,6 +66,8 @@ These are the sources for the commands documented above in the tables.
 These links should be explored to see what additional information
 could be gathered for this cheat sheet.
 
+* [
+7 Surprising Vim Tricks That Will Save You Hours](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
 * [How to Add Top Features From Other Text Editors to Vim](https://www.makeuseof.com/tag/add-features-to-vim/)
 * [Another Vim Cheat Sheet](http://www.terminally-incoherent.com/blog/reference/vim-cheat-sheet/)
 * [Vim Cheatsheet](http://www.terminally-incoherent.com/blog/2008/10/27/vim-cheatsheet/)
@@ -87,6 +89,8 @@ could be gathered for this cheat sheet.
 * [TextAid](http://lalashan.mcmaster.ca/theobio/projects/index.php/TextAid)
 * [Working Productively in Bash's Vi Command Line Editing Mode (with Cheat Sheet)](http://www.catonmat.net/blog/bash-vi-editing-mode-cheat-sheet/)
 * [usevim](http://usevim.com/)
+* [Customising Vim to Get the Best Out of It](https://towardsdatascience.com/customising-vim-to-get-the-best-out-of-it-a5a4dae02562)
+* [Customising Vim to Get the Best Out of It (Part 2)](https://towardsdatascience.com/customising-vim-to-get-the-best-out-of-it-part-2-931246996458)
 
 
 
