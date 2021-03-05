@@ -14,6 +14,10 @@ I will explain here how I established the git environment on my local machine,
 how I established a GitHub for that environment, how to replicate the Vim environment
 to another machine, and how to update both the local git repository and GitHub.
 
+# Vim as a IDE
+* [How to Turn Vim Into a Lightweight IDE](https://dane-bulat.medium.com/how-to-turn-vim-into-a-lightweight-ide-6185e0f47b79)
+* [Vim: Setting up a Build System and Code Completion for C and C++](https://dane-bulat.medium.com/vim-setting-up-a-build-system-and-code-completion-for-c-and-c-eb263c0a19a1)
+
 ## Install
 If vi fails with the error message "E25: GUI cannot be used: Not enabled at compile time",
 you need to install `gvim` via `sudo apt-get install vim-gnome`.
@@ -66,8 +70,7 @@ These are the sources for the commands documented above in the tables.
 These links should be explored to see what additional information
 could be gathered for this cheat sheet.
 
-* [
-7 Surprising Vim Tricks That Will Save You Hours](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
+* [7 Surprising Vim Tricks That Will Save You Hours](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
 * [How to Add Top Features From Other Text Editors to Vim](https://www.makeuseof.com/tag/add-features-to-vim/)
 * [Another Vim Cheat Sheet](http://www.terminally-incoherent.com/blog/reference/vim-cheat-sheet/)
 * [Vim Cheatsheet](http://www.terminally-incoherent.com/blog/2008/10/27/vim-cheatsheet/)
