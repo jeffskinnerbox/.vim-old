@@ -70,6 +70,7 @@ These are the sources for the commands documented above in the tables.
 These links should be explored to see what additional information
 could be gathered for this cheat sheet.
 
+* [Switch to Neovim](https://medium.com/pragmatic-programmers/switch-to-neovim-9c5339e8719e)
 * [7 Surprising Vim Tricks That Will Save You Hours](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
 * [How to Add Top Features From Other Text Editors to Vim](https://www.makeuseof.com/tag/add-features-to-vim/)
 * [Another Vim Cheat Sheet](http://www.terminally-incoherent.com/blog/reference/vim-cheat-sheet/)
