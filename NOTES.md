@@ -15,6 +15,12 @@ Tim Pope says you should - https://github.com/tpope/vim-pathogen
 * [Learning Vim in 2014: Getting More from Vim with Plugins](https://benmccormick.org/2014/07/21/learning-vim-in-2014-getting-more-from-vim-with-plugins)
 * [Vim-plug: A Minimalist Vim Plugin Manager](https://www.ostechnix.com/vim-plug-a-minimalist-vim-plugin-manager/)
 
+Is it time to add some more features to your vim resource file?
+Consider the following:
+
+* [Top five Vim plugins for sysadmins](https://www.redhat.com/sysadmin/five-vim-plugins)
+* [Use Vim macros to automate frequent tasks](https://www.redhat.com/sysadmin/use-vim-macros)
+
 ----
 
 # Notes
