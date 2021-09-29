@@ -99,6 +99,7 @@ could be gathered for this cheat sheet.
 * [usevim](http://usevim.com/)
 * [Customising Vim to Get the Best Out of It](https://towardsdatascience.com/customising-vim-to-get-the-best-out-of-it-a5a4dae02562)
 * [Customising Vim to Get the Best Out of It (Part 2)](https://towardsdatascience.com/customising-vim-to-get-the-best-out-of-it-part-2-931246996458)
+* [Vim offers great benefits to writers](https://opensource.com/article/17/2/vim-plugins-writers)
 
 
 
