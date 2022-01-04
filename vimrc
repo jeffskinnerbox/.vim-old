@@ -826,7 +826,7 @@ autocmd BufWrite *.lua :call DeleteTrailingWS()
 autocmd BufWrite *.ino :call DeleteTrailingWS()
 autocmd BufWrite *.coffee :call DeleteTrailingWS()
 autocmd BufWrite *.yml :call DeleteTrailingWS()
-autocmd BufWrite *.ymal :call DeleteTrailingWS()
+autocmd BufWrite *.yaml :call DeleteTrailingWS()
 
 
 
