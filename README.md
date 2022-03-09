@@ -74,6 +74,8 @@ could be gathered for this cheat sheet.
 * [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
 * [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
 
+* [4 Vim features to use to improve productivity](https://opensource.com/article/22/3/vim-features-productivity)
+
 * [Switch to Neovim](https://medium.com/pragmatic-programmers/switch-to-neovim-9c5339e8719e)
 * [7 Surprising Vim Tricks That Will Save You Hours](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
 * [How to Add Top Features From Other Text Editors to Vim](https://www.makeuseof.com/tag/add-features-to-vim/)
