@@ -3,6 +3,15 @@ Maintainer:   jeffskinnerbox@yahoo.com / www.jeffskinnerbox.me
 Version:      1.2.0
 -->
 
+
+<div align="center">
+<img src="https://python-deprecated.readthedocs.io/en/latest/_images/logo-full.png" title="Deprecated is increasingly used as a technical term meaning 'to recommend against using something on the grounds that it is obsolete', or 'to declare some technological feature or function to be obsolescent'.  The earliest meaning of deprecate was 'to pray against, as an evil,' and soon after this first meaning it took on the additional sense 'to express disapproval of.' Meanwhile, depreciate, the closely related word with which it is often confused, means 'to lower in value.'" align="center">
+</div>
+
+
+----
+
+
 # Vim Dotfiles
 Using Vim's scripting language (and a great deal of insight and tools from others),
 I have setup Vim on my local machine to be an effective development environment
